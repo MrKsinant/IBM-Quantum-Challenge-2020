@@ -13,5 +13,5 @@ Below, as provided by organizers, a brief description of each one of the 4 quant
 Finally, to conclude, respectively to the requirements, it can be said that the work performed within this challenge has been principally constructed around **Qiskit** (https://qiskit.org), the open-source quantum computing software development framework, mainly supported and developed by IBM, for leveraging today's quantum processors in research, education, and business.
 
 <p align="center">
-  <img src="images/final_ranking.png" width="300" />
+  <img src="images/final_ranking.png" width="500" />
 </p>
