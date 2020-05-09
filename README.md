@@ -2,7 +2,7 @@
 
 On April 27, 2020, Jay Gambetta announced [the IBM Quantum Challenge](https://www.ibm.com/blogs/research/2020/04/ibm-quantum-challenge/), which took place between May 4, 2020 and May 8, 2020: To celebrate the fourth anniversary of **IBM Quantum Experience** and its successes over the years, 4 quantum programming exercises have been proposed for enthusiasts.
 
-This repository contains the answers I provided during the event and allowed me to reach the 328th ranking position (1,745 participants entered the challenge, 67% of whom didn't success to terminate it during the allowing time).
+This repository contains the answers I provided during the event and which allowed me to reach the 328th ranking position (1,745 participants entered the challenge, 67% of whom failed to terminate it during the allowing time).
 
 Below, as provided by organizers, a brief description of each one of the 4 quantum programming exercises can be found:
 * **Exercise 1, basic quantum circuits:** *"This exercise will familiarize you with some basic principles in quantum information science, like understanding what a quantum circuit  is. During this exercise you will learn what a qubit is, how to apply some quantum gates to it, and how to measure its final state. By the end, you will create your own quantum circuits!"* (read Jupyter notebook **1-basic-quantum-circuits.ipynb** to check my solution);
